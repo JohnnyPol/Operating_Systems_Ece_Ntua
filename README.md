@@ -1,2 +1,2 @@
 # Operating System Lab Projects | ECE NTUA
-### Giannis Polychronopoulos , Sofia Savva
+### John Polychronopoulos , Sofia Savva
